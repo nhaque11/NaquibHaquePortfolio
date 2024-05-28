@@ -3,10 +3,10 @@ import styles from './Parallax.module.css';
 
 const images = [
   //'/assets/hero/welcome.png',
-  '/assets/hero/about.png',
-  '/assets/hero/experience.png',
-  '/assets/hero/projects.png',
-  '/assets/hero/contact.png',
+  'about.png',
+  'experience.png',
+  'projects.png',
+  'contact.png',
 ];
 
 const Parallax = () => {
