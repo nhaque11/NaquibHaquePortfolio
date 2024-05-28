@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Google Coursera - Data Analytics Certificate",
+    "imageSrc": "projects/courseracertificate.png",
+    "description": "Developed skills in data cleaning, analysis, visualization, and storytelling using Excel, SQL, Tableau, and R, enhancing my proficiency in organizing and interpreting complex data to drive business decisions and identify key patterns.",
+    "skills": ["SQL", "Excel", "Tableau", "R"]
+  },
+  {
+    "title": "Amplify",
+    "imageSrc": "projects/amplify.png",
+    "description": "Led a team of four students to develop a brain game application, using agile methods to streamline project delivery and actively designing interfaces, conducting QA, and innovating game features.",
+    "skills": ["C++", "Git/Github", "Linux", "Google Test"]
+  },
+  {
+    "title": "Data Analytics Projects",
+    "imageSrc": "projects/project.png",
+    "description": "I created charts and cleaned medical datasets for patient examination analysis, and designed plots to identify trends in NBA team data.",
+    "skills": ["Python", "Pandas", "Matplotlib"]
+  }
+]

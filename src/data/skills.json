@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "Spreadsheets",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/figma.png"
+  }
+]

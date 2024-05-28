@@ -1,0 +1,32 @@
+[
+  {
+    "role": "IT Intern",
+    "organisation": "USC/ISI",
+    "startDate": "June, 2023",
+    "endDate": "August 2023",
+    "experiences": ["Involved with the Information Sciences Institute (ISI) staff at USC to troubleshoot Windows and Linux OS systems.", "Assisted with new computing hardware, including computers, monitors, and similar devices, to install and configure new equipment."],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Business Dev Team",
+    "organisation": "Highlander Space Program",
+    "startDate": "Oct, 2022",
+    "endDate": "April, 2023",
+    "experiences": ["Proactively identified and reached out to potential sponsors through calls, emails, and meetings, to convey the value proposition.", "Monitored various administrative tasks, such as data management, scheduling, and documentation in Excel."],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "University of California, Riverside",
+    "organisation": "B.S Computer Science",
+    "startDate": "Sep, 2021",
+    "endDate": "Jun, 2025",
+    "experiences": [
+      "Data Structures and Algorithms"
+      , "Statistics and Probability Engr.", 
+      "Linear Algebra",
+       "Intro. to A.I.", "Intro. to Web Development"
+      
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
