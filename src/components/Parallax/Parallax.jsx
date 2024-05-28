@@ -1,13 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import styles from './Parallax.module.css';
-
+import About from '../../../assets/hero/about.png'
+import Experience from '../../../assets/hero/experience.png'
+import Projects from '../../../assets/hero/projects.png'
+import Contact from '../../../assets/hero/contact.png'
 const images = [
   //'/assets/hero/welcome.png',
-  '/assets/hero/about.png',
-  '/assets/hero/experience.png',
-  '/assets/hero/projects.png',
-  '/assets/hero/contact.png',
-];
+  About,
+  Experience,
+  Projects,
+  Contact
+  ];
 
 const Parallax = () => {
   const [imageIndex, setImageIndex] = useState(0);
